@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="718c8646-537c-4aff-a72c-f7b3bdbd0b30" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5186838">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="GestureDetector.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/Gesture/GestureDetector.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="67" column="40" lean-forward="false" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="52" />
+                  <folding>
+                    <marker date="1488646652061" expanded="true" signature="0:304" ph="/* ------------------------------------------------------------------------------ ... */" />
+                    <marker date="1488646652061" expanded="true" signature="312:456" ph="..." />
+                    <marker date="1488646652061" expanded="true" signature="499:1408" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="757:1065" ph="/* public GestureEventArgs(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence) ... */" />
+                    <marker date="1488646652061" expanded="true" signature="1190:1406" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="1410:1611" ph="/// Gesture Detector class which listens for VisualGestureBuilderFrame events from the service ... " />
+                    <marker date="1488646652061" expanded="true" signature="1654:10338" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="2452:2714" ph="/// Initializes a new instance of the GestureDetector class along with the gesture frame source and reader ... " />
+                    <marker date="1488646652061" expanded="true" signature="2768:5290" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="2808:2889" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="3330:3480" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="3490:4315" ph="/* load the 'Seated' gesture from the gesture database ... */" />
+                    <marker date="1488646652061" expanded="true" signature="4576:5284" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="4599:4849" ph="/* we could load all available gestures in the database with a call to vgbFrameSource.AddGestures(database.Availa ... */" />
+                    <marker date="1488646652061" expanded="true" signature="4917:5274" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="4998:5095" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="5163:5260" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="5296:5480" ph="/// Gets or sets the body tracking ID associated with the current detector ... " />
+                    <marker date="1488646652061" expanded="true" signature="5508:5777" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="5526:5597" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="5610:5771" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="5677:5761" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="5783:6013" ph="/// Gets or sets a value indicating whether or not the detector is currently paused ... " />
+                    <marker date="1488646652061" expanded="true" signature="6038:6301" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="6056:6125" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="6138:6295" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="6203:6285" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="6307:6394" ph="/// Disposes all unmanaged resources for the class ... " />
+                    <marker date="1488646652061" expanded="true" signature="6420:6495" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="6501:6745" ph="/// Disposes the VisualGestureBuilderFrameSource and VisualGestureBuilderFrameReader objects ... " />
+                    <marker date="1488646652061" expanded="true" signature="6796:7347" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="6825:7341" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="6880:7084" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="7130:7331" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="7353:7598" ph="/// Handles gesture detection results arriving from the sensor for the associated body tracking Id ... " />
+                    <marker date="1488646652061" expanded="true" signature="7702:9856" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="7866:9850" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="7907:9840" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="8123:9826" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="8324:9808" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="8469:9065" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="8687:9039" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="8785:9009" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="9189:9786" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="9407:9760" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="9505:9730" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="9862:10087" ph="/// Handles the TrackingIdLost event for the VisualGestureBuilderSource object ... " />
+                    <marker date="1488646652061" expanded="true" signature="10168:10336" ph="{...}" />
+                    <marker date="1488646652061" expanded="true" signature="10218:10330" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CanvasExerciseManager.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasExerciseManager.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="945">
+                  <caret line="153" column="39" lean-forward="false" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="39" />
+                  <folding>
+                    <marker date="1488878964496" expanded="true" signature="6:100" ph="..." />
+                    <marker date="1488878964496" expanded="true" signature="152:3792" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="686:1083" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1102:1220" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1160:1214" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1255:1290" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1319:1771" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1467:1698" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1711:1764" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1799:1902" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="1945:2004" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="2037:2121" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="2153:3254" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="2261:2959" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="2346:2484" ph="/* TODO: eventuell eventhandler von tracking id löschen damit das script nicht mehr ausgeführt wird ... */" />
+                    <marker date="1488878964496" expanded="true" signature="2527:2710" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="2780:2949" ph="/* load next canvas ... */" />
+                    <marker date="1488878964496" expanded="true" signature="2972:3248" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="3292:3587" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="3429:3581" ph="{...}" />
+                    <marker date="1488878964496" expanded="true" signature="3637:3790" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CanvasManager.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="575">
+                  <caret line="43" column="54" lean-forward="false" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+                  <folding>
+                    <marker date="1488915973652" expanded="true" signature="6:113" ph="..." />
+                    <marker date="1488915973652" expanded="true" signature="157:1930" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="416:577" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="608:1756" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="934:1106" ph="/* Debug.Log(&quot;Canvasname: &quot; + _canvasGroupCurrent.name); ... */" />
+                    <marker date="1488915973652" expanded="true" signature="1165:1374" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1288:1364" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1433:1579" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1592:1697" ph="{...}" />
+                    <marker date="1488915973652" expanded="true" signature="1801:1928" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BodyView.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyView.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="630">
+                  <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+                  <folding>
+                    <marker date="1488915910612" expanded="true" signature="6:109" ph="..." />
+                    <marker date="1488915910612" expanded="true" signature="148:8044" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="679:2389" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2416:2498" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2555:4640" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2618:2658" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2788:2828" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="2940:2980" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3127:3380" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3167:3221" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3254:3370" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3518:3808" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3677:3798" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3868:4634" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3908:3962" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="3995:4491" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="4122:4365" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="4641:4711" ph="/* Update ... */" />
+                    <marker date="1488915910612" expanded="true" signature="4761:5763" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="5052:5736" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="5876:7362" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="6023:7356" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="6307:6424" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="6879:7265" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7282:7346" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7469:7665" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7778:8042" ph="{...}" />
+                    <marker date="1488915910612" expanded="true" signature="7803:8036" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="GestureManager.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/Gesture/GestureManager.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="720">
+                  <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+                  <folding>
+                    <marker date="1488885628388" expanded="true" signature="6:193" ph="..." />
+                    <marker date="1488885628388" expanded="true" signature="238:4866" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="1224:2304" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="1231:1349" ph="/* _gameObjectBM = BodyManager.BM; ... */" />
+                    <marker date="1488885628388" expanded="true" signature="1488:1528" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="1836:1948" ph="/* _bodyFrameReader = _kinectSensor.BodyFrameSource.OpenReader(); ... */" />
+                    <marker date="1488885628388" expanded="true" signature="2155:2298" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2362:3508" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2373:2669" ph="/* bool newBodyData = false; ... */" />
+                    <marker date="1488885628388" expanded="true" signature="2737:3502" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2824:3492" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="2919:3478" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="3074:3460" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="3599:3706" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="3792:4844" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="4072:4837" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="4320:4827" ph="{...}" />
+                    <marker date="1488885628388" expanded="true" signature="4434:4813" ph="/* ConfidenceTextGameObject.text += &quot; WHOOP &quot;; ... */" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/Gesture/Class1.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2535">
+                  <caret line="169" column="40" lean-forward="false" selection-start-line="169" selection-start-column="34" selection-end-line="169" selection-end-column="40" />
+                  <folding>
+                    <marker date="1488711001346" expanded="true" signature="6:193" ph="..." />
+                    <marker date="1488711001346" expanded="true" signature="1208:2307" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="1365:2225" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="1978:2137" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="2238:2301" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="2365:3520" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="2481:2658" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="2526:2648" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="2684:3513" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="2767:3503" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="2862:3489" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="3017:3471" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="3602:3739" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="3825:4836" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="4164:4830" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="4499:4688" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="4705:4760" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="4866:5244" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="4915:5022" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="5063:5238" ph="{...}" />
+                    <marker date="1488711001346" expanded="true" signature="5116:5188" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="KinectManager.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../KinectGestures/Assets/Gesture/KinectManager.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="900">
+                  <caret line="60" column="6" lean-forward="false" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>leang</find>
+      <find>desc</find>
+      <find>bodyColors</find>
+      <find>_bodyColors</find>
+      <find>DetectionConfidence</find>
+      <find>AvailableGestures</find>
+      <find>streamingass</find>
+      <find>path</find>
+      <find>GestureID</find>
+      <find>lean</find>
+      <find>leanLeftGestureName</find>
+      <find>_leanRightGestureName</find>
+      <find>leanDB</find>
+      <find>leanRightGestureName</find>
+      <find>OnGestureDetected</find>
+      <find>GestureDetector</find>
+      <find>open</find>
+      <find>GetData</find>
+      <find>reader</find>
+      <find>GestureEventArgs</find>
+      <find>_bodies</find>
+      <find>_bodyCount</find>
+      <find>_kinectSensor</find>
+      <find>bodycou</find>
+      <find>_bodyFrameReader</find>
+      <find>debug</find>
+      <find>ready</find>
+      <find>dispos</find>
+      <find>ges</find>
+      <find>getha</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Kinect TheNappingCat/Assets/Scripts/KinectScripts/BodyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BodyManager.cs" />
+        <option value="$PROJECT_DIR$/../Kinect TheNappingCat/Assets/Scripts/KinectScripts/BodyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BodyView.cs" />
+        <option value="$PROJECT_DIR$/../Kinect Windows example/Assets/KinectView/Scripts/BodySourceView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Initial/Scripts/InitialTextScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectBodyView/Scripts/KinectInputModule.cs" />
+        <option value="$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/Scripts/ButtonTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectCanvasView/Scripts/KinectInputModule.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectCanvasView/Scripts/KinectUICursor.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectCanvasView/Scripts/AbstractKinectUICursor.cs" />
+        <option value="$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/KinectUIWaitOverButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/KinectUIWaitCursor.cs" />
+        <option value="$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/AbstractKinectUICursor.cs" />
+        <option value="$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Scripts/KinectUI/KinectUIWaitOverButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/ButtonClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/KinectInputModule.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Editor/KinectInputModuleEditor.cs" />
+        <option value="$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Scripts/KinectInputModule.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectInputModule.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectUI/KinectUIWaitOverButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasCurrentController.cs" />
+        <option value="$PROJECT_DIR$/../KinectGestures/Assets/Gesture/KinectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gesture/GestureDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gesture/Class1.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/ButtonClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasExerciseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gesture/GestureManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KinectTestScenario (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KinectTestScenario (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KinectTestScenario (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gesture" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KinectTestScenario (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="RuntimeDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="718c8646-537c-4aff-a72c-f7b3bdbd0b30" name="Default" comment="" />
+      <created>1487924895023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487924895023</updated>
+      <workItem from="1487924900181" duration="719000" />
+      <workItem from="1487926370610" duration="3632000" />
+      <workItem from="1488017959450" duration="1827000" />
+      <workItem from="1488021137737" duration="11287000" />
+      <workItem from="1488184557939" duration="652000" />
+      <workItem from="1488186247218" duration="10687000" />
+      <workItem from="1488201429268" duration="4435000" />
+      <workItem from="1488221349310" duration="2757000" />
+      <workItem from="1488298145173" duration="840000" />
+      <workItem from="1488301119475" duration="1251000" />
+      <workItem from="1488308845071" duration="642000" />
+      <workItem from="1488381236205" duration="40000" />
+      <workItem from="1488381999463" duration="1195000" />
+      <workItem from="1488391872531" duration="7671000" />
+      <workItem from="1488474437592" duration="4294000" />
+      <workItem from="1488615929599" duration="9787000" />
+      <workItem from="1488703050891" duration="10049000" />
+      <workItem from="1488753226428" duration="30554000" />
+      <workItem from="1488872686309" duration="4794000" />
+      <workItem from="1488878392149" duration="11128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118241000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04424307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12579957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BodyView.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect Windows example/Assets/KinectView/Scripts/BodySourceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect Windows example/Assets/KinectView/Scripts/BodySourceView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BodyManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BodyView.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect Windows example/Assets/KinectView/Scripts/BodySourceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect TheNappingCat/Assets/Scripts/KinectScripts/BodyManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BodyManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BodyView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BodyManager.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect TheNappingCat/Assets/Scripts/KinectScripts/BodyView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="98" column="78" lean-forward="false" selection-start-line="98" selection-start-column="78" selection-end-line="98" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect TheNappingCat/Assets/Scripts/KinectScripts/BodyManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BodyView.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect Windows example/Assets/KinectView/Scripts/BodySourceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect Windows example/Assets/KinectView/Scripts/BodySourceView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Initial/Scripts/InitialTextScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/KinectInputModule.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/KinectCanvasView/Scripts/KinectInputModule.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/Scripts/CaptureScreenShot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectCanvasView/Scripts/KinectUICursor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/KinectCanvasView/Scripts/AbstractKinectUICursor.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Scripts/KinectUI/AbstractKinectUICursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/KinectUIWaitOverButton.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/KinectUICursor.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Scripts/KinectUI/KinectUICursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Scripts/KinectUI/KinectUIWaitCursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/InitialTextScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/KinectUIWaitCursor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/ButtonClick.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/AbstractKinectUICursor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/InitialKinectCanvasView/Scripts/KinectInputModule.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/Kinect/KinectView/Scripts/BodySourceView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="106" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Editor/KinectInputModuleEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Scripts/KinectUI/KinectUIWaitOverButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/Scripts/ButtonTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Editor/KinectInputModuleEditor.cs" />
+    <entry file="file://$PROJECT_DIR$/../Kinect-Inputmodule-master/Assets/KinectUIModule/Scripts/KinectInputModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="197" column="71" lean-forward="false" selection-start-line="197" selection-start-column="71" selection-end-line="197" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasCurrentController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectUI/KinectUIWaitOverButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../KinectGestures/Assets/Gesture/GestureDetector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="108" column="67" lean-forward="true" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Gesture/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="169" column="40" lean-forward="false" selection-start-line="169" selection-start-column="34" selection-end-line="169" selection-end-column="40" />
+          <folding>
+            <marker date="1488711001346" expanded="true" signature="6:193" ph="..." />
+            <marker date="1488711001346" expanded="true" signature="1208:2307" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="1365:2225" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="1978:2137" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="2238:2301" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="2365:3520" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="2481:2658" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="2526:2648" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="2684:3513" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="2767:3503" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="2862:3489" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="3017:3471" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="3602:3739" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="3825:4836" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="4164:4830" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="4499:4688" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="4705:4760" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="4866:5244" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="4915:5022" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="5063:5238" ph="{...}" />
+            <marker date="1488711001346" expanded="true" signature="5116:5188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Gesture/GestureDetector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="67" column="40" lean-forward="false" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="52" />
+          <folding>
+            <marker date="1488646652061" expanded="true" signature="0:304" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1488646652061" expanded="true" signature="312:456" ph="..." />
+            <marker date="1488646652061" expanded="true" signature="499:1408" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="757:1065" ph="/* public GestureEventArgs(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence) ... */" />
+            <marker date="1488646652061" expanded="true" signature="1190:1406" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="1410:1611" ph="/// Gesture Detector class which listens for VisualGestureBuilderFrame events from the service ... " />
+            <marker date="1488646652061" expanded="true" signature="1654:10338" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="2452:2714" ph="/// Initializes a new instance of the GestureDetector class along with the gesture frame source and reader ... " />
+            <marker date="1488646652061" expanded="true" signature="2768:5290" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="2808:2889" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="3330:3480" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="3490:4315" ph="/* load the 'Seated' gesture from the gesture database ... */" />
+            <marker date="1488646652061" expanded="true" signature="4576:5284" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="4599:4849" ph="/* we could load all available gestures in the database with a call to vgbFrameSource.AddGestures(database.Availa ... */" />
+            <marker date="1488646652061" expanded="true" signature="4917:5274" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="4998:5095" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="5163:5260" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="5296:5480" ph="/// Gets or sets the body tracking ID associated with the current detector ... " />
+            <marker date="1488646652061" expanded="true" signature="5508:5777" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="5526:5597" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="5610:5771" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="5677:5761" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="5783:6013" ph="/// Gets or sets a value indicating whether or not the detector is currently paused ... " />
+            <marker date="1488646652061" expanded="true" signature="6038:6301" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="6056:6125" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="6138:6295" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="6203:6285" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="6307:6394" ph="/// Disposes all unmanaged resources for the class ... " />
+            <marker date="1488646652061" expanded="true" signature="6420:6495" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="6501:6745" ph="/// Disposes the VisualGestureBuilderFrameSource and VisualGestureBuilderFrameReader objects ... " />
+            <marker date="1488646652061" expanded="true" signature="6796:7347" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="6825:7341" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="6880:7084" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="7130:7331" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="7353:7598" ph="/// Handles gesture detection results arriving from the sensor for the associated body tracking Id ... " />
+            <marker date="1488646652061" expanded="true" signature="7702:9856" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="7866:9850" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="7907:9840" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="8123:9826" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="8324:9808" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="8469:9065" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="8687:9039" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="8785:9009" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="9189:9786" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="9407:9760" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="9505:9730" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="9862:10087" ph="/// Handles the TrackingIdLost event for the VisualGestureBuilderSource object ... " />
+            <marker date="1488646652061" expanded="true" signature="10168:10336" ph="{...}" />
+            <marker date="1488646652061" expanded="true" signature="10218:10330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/ButtonClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <marker date="1488874985227" expanded="true" signature="6:162" ph="..." />
+            <marker date="1488874985227" expanded="true" signature="204:638" ph="{...}" />
+            <marker date="1488874985227" expanded="true" signature="363:634" ph="{...}" />
+            <marker date="1488874985227" expanded="true" signature="545:629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../KinectGestures/Assets/Gesture/KinectManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="6" lean-forward="false" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="34" lean-forward="false" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <folding>
+            <marker date="1488885048132" expanded="true" signature="6:136" ph="..." />
+            <marker date="1488885048132" expanded="true" signature="178:2782" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="531:567" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="616:652" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="689:725" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="756:797" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="823:1071" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="853:939" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="952:1065" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="990:1055" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1130:1816" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1214:1810" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1375:1658" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1692:1800" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1883:2413" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="1985:2407" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2118:2397" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2487:2780" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2522:2602" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2632:2774" ph="{...}" />
+            <marker date="1488885048132" expanded="true" signature="2674:2736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Gesture/GestureManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+          <folding>
+            <marker date="1488885628388" expanded="true" signature="6:193" ph="..." />
+            <marker date="1488885628388" expanded="true" signature="238:4866" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="1224:2304" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="1231:1349" ph="/* _gameObjectBM = BodyManager.BM; ... */" />
+            <marker date="1488885628388" expanded="true" signature="1488:1528" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="1836:1948" ph="/* _bodyFrameReader = _kinectSensor.BodyFrameSource.OpenReader(); ... */" />
+            <marker date="1488885628388" expanded="true" signature="2155:2298" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2362:3508" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2373:2669" ph="/* bool newBodyData = false; ... */" />
+            <marker date="1488885628388" expanded="true" signature="2737:3502" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2824:3492" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="2919:3478" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="3074:3460" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="3599:3706" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="3792:4844" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="4072:4837" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="4320:4827" ph="{...}" />
+            <marker date="1488885628388" expanded="true" signature="4434:4813" ph="/* ConfidenceTextGameObject.text += &quot; WHOOP &quot;; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectInputModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="163" selection-end-column="5" />
+          <folding>
+            <marker date="1488192782306" expanded="true" signature="6:72" ph="..." />
+            <marker date="1488192782306" expanded="true" signature="210:6609" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="470:1102" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="488:1096" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="526:1056" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="667:1042" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="730:933" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1108:1241" ph="///  Call this from your Kinect body view from Update method ... " />
+            <marker date="1488192782306" expanded="true" signature="1278:1411" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1336:1405" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1546:2103" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="1590:1676" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2139:2226" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2231:2361" ph="/// Processes waitint over componens, if hovererd buttons click type is waitover, process it! ... " />
+            <marker date="1488192782306" expanded="true" signature="2396:3149" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2454:3143" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="2748:3133" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="3155:3306" ph="///  Process pressing, event click trigered on button by closing and opening hand,sends submit event to gameobjec ... " />
+            <marker date="1488192782306" expanded="true" signature="3338:5547" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="3396:5541" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="3720:3847" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="4026:4596" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="4106:4582" ph="/* PointerEventData lookData = GetLookPointerEventData(_inputData[i].GetHandScreenPosition()); ... */" />
+            <marker date="1488192782306" expanded="true" signature="4828:5531" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="5157:5467" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="5552:5670" ph="/// Process hovering over component, sends pointer enter exit event to gameobject ... " />
+            <marker date="1488192782306" expanded="true" signature="5702:6189" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="5760:6183" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="6194:6338" ph="/// Used from UI hand cursor components ... " />
+            <marker date="1488192782306" expanded="true" signature="6404:6607" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="6462:6580" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="6660:10358" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7165:7373" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7183:7367" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7496:8050" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7554:8044" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="7606:8034" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="8511:8702" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="8565:8696" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9216:9388" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9483:9634" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9749:10131" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="9777:10125" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="10247:10356" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="10392:10426" ph="{...}" />
+            <marker date="1488192782306" expanded="true" signature="10455:10474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/KinectUI/AbstractKinectUICursor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <marker date="1488189496533" expanded="true" signature="6:88" ph="..." />
+            <marker date="1488189496533" expanded="true" signature="90:174" ph="/// Abstract UI component class for hand cursor objects ... " />
+            <marker date="1488189496533" expanded="true" signature="292:988" ph="{...}" />
+            <marker date="1488189496533" expanded="true" signature="455:484" ph="{...}" />
+            <marker date="1488189496533" expanded="true" signature="512:820" ph="{...}" />
+            <marker date="1488189496533" expanded="true" signature="854:945" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasExerciseManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="153" column="39" lean-forward="false" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="39" />
+          <folding>
+            <marker date="1488878964496" expanded="true" signature="6:100" ph="..." />
+            <marker date="1488878964496" expanded="true" signature="152:3792" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="686:1083" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1102:1220" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1160:1214" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1255:1290" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1319:1771" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1467:1698" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1711:1764" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1799:1902" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="1945:2004" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="2037:2121" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="2153:3254" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="2261:2959" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="2346:2484" ph="/* TODO: eventuell eventhandler von tracking id löschen damit das script nicht mehr ausgeführt wird ... */" />
+            <marker date="1488878964496" expanded="true" signature="2527:2710" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="2780:2949" ph="/* load next canvas ... */" />
+            <marker date="1488878964496" expanded="true" signature="2972:3248" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="3292:3587" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="3429:3581" ph="{...}" />
+            <marker date="1488878964496" expanded="true" signature="3637:3790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectBodyView/Scripts/BodyView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <marker date="1488915910612" expanded="true" signature="6:109" ph="..." />
+            <marker date="1488915910612" expanded="true" signature="148:8044" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="679:2389" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2416:2498" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2555:4640" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2618:2658" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2788:2828" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="2940:2980" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3127:3380" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3167:3221" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3254:3370" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3518:3808" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3677:3798" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3868:4634" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3908:3962" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="3995:4491" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="4122:4365" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="4641:4711" ph="/* Update ... */" />
+            <marker date="1488915910612" expanded="true" signature="4761:5763" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="5052:5736" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="5876:7362" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="6023:7356" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="6307:6424" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="6879:7265" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7282:7346" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7469:7665" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7778:8042" ph="{...}" />
+            <marker date="1488915910612" expanded="true" signature="7803:8036" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KinectUIModule/Scripts/CanvasManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="43" column="54" lean-forward="false" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+          <folding>
+            <marker date="1488915973652" expanded="true" signature="6:113" ph="..." />
+            <marker date="1488915973652" expanded="true" signature="157:1930" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="416:577" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="608:1756" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="934:1106" ph="/* Debug.Log(&quot;Canvasname: &quot; + _canvasGroupCurrent.name); ... */" />
+            <marker date="1488915973652" expanded="true" signature="1165:1374" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1288:1364" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1433:1579" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1592:1697" ph="{...}" />
+            <marker date="1488915973652" expanded="true" signature="1801:1928" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
